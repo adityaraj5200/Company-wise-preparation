@@ -1,0 +1,2 @@
+- [ ] Prepare stories around the work/projects you have completed. what you did, what you learned, how you made impact.
+- [ ] what happens when you enter domain.com
