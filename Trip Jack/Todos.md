@@ -1,6 +1,7 @@
 ### Prepare for these topics well:
 
 - [ ] DSA:
+    - [ ] Practice LRU and LFU cache.
     - [ ] Quickly brush up on java syntax as you have been doing DSA questions in C++ so far.
     - [ ] Quickly loop through Revision1 list in leetcode.
     - [ ] Quickly loop through all the striver A2Z DSA sheet problems in java.
