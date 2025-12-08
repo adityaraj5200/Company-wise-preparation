@@ -1,17 +1,18 @@
 # For the first round which will focus on Java Coding, DSA, Problem Solving, Logical reasoning:
-* [ ] Revise how TLS works.
+* [x] Revise how TLS works.
 * [ ] DSA:
-    * [ ] Word Search
-    * [ ] LRU Cache.
-    * [ ] LFU Cache.
-    * [ ] Course schedule 1 and 2.
-    * [ ] Given a list of words, find longest common substring among words
-* [ ] Java garbage collection, and threading
-* [ ] Singleton design pattern and various ways to implement it.
-* [ ] Adapter design pattern.
-* [ ]Several questions on multi-threading and the Singleton Design Pattern, including: 
-    * [ ] How to implement the Singleton Design Pattern.
-    * [ ] Locks and synchronization concepts.
+    * [x] Word Search
+    * [x] LRU Cache.
+    * [x] LFU Cache.
+    * [x] Course schedule 1 and 2.
+    * [x] Given a list of words, find longest common substring among words
+* [x] Java garbage collection, and threading
+* [x] Singleton design pattern and various ways to implement it.
+* [x] Adapter design pattern.
+* [x] Familiarise yourself with the java syntax.
+* [ ] Several questions on multi-threading and the Singleton Design Pattern, including: 
+    * [x] How to implement the Singleton Design Pattern.
+    * [x] Locks and synchronization concepts.
 * [ ] See if you can practice/revise SQL queries like joins, subqueries, aggregations, window functions, etc.
     * [ ] Find the top 3 maximum salaries of each department.
     * [ ] Find employees who have the second highest salary.
@@ -26,15 +27,15 @@
 * [ ] Go through java QAs repositories of your GitHub.
     * [ ] List of Emp POJO with name, id etc. filter it via streams where name starts with your first name
     * [ ] Sort the same list via streams in reversed order of name.
-    * [ ]Tell me about the different map versions you know in java
+    * [ ] Tell me about the different map versions you know in java
 * [ ] Go through spring/spring boot QAs repositories of your GitHub.
     * [ ] What is Spring Boot Actuator?
     * [ ] How to handle exceptions in Spring Boot applications?
     * [ ] Benefits of using Spring Boot over traditional Spring Framework.
     * [ ] Benefits of DI in Spring Framework.
     * [ ] if a prototype bean is autowired inside inside singleton bean, would it act like prototype?
+    * [ ] All annotations you must know if worked with Rest API using Spring Boot
 * [ ] Go through CS Fundamental QAs repositories of your GitHub.
-    * [ ] 
 * [ ] Also touch the microservices concepts.
 * [ ] How would you design a REST API for a given scenario?
 * [ ] Prepare well on the work experience mentioned in your resume. Be ready to discuss your projects, roles, and responsibilities in detail.
