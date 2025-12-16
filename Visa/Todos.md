@@ -1,18 +1,77 @@
+# Round 2:
+Interviewer: Akshareshkumar Patel
+
+# Topics to prepare:
+* [ ] CS fundamentals:
+  * [x] SOLID principles
+  * [x] ACID properties in database
+* [ ] Core Java:
+    * [x] Object-Oriented Programming principles (inheritance, polymorphism, encapsulation)
+    * [ ] Collections framework (don't forget Iterator, cursor, etc)
+    * [ ] Multithreading
+    * [ ] Exception handling
+    * [ ] Java 8+ features
+      * [ ] streams
+      * [ ] lambdas
+      * [ ] functional interfaces
+
+* [ ] Spring Boot:
+    * [ ] Basics of Spring Framework (dependency injection, annotations).
+    * [ ] Types of injections. Pros and cons of each.
+    * [ ] REST API development using Spring Boot, Configuration
+    * [ ] Security basics
+    * [ ] Common annotations
+
+* [ ] API Development:
+    * [ ] Designing RESTful APIs
+    * [ ] Understanding HTTP methods, status codes
+    * [ ] error handling
+    * [ ] JSON/XML handling and integration with databases etc
+
+* [ ] Domain Knowledge:
+    * [ ] Review the business domain relevant to the role (e.g., payment systems, risk analytics if applicable)
+    * [ ] Be ready to explain how technical solutions fit into real-world scenarios etc
+
+* [ ] Communication & Articulation Skills
+
+
+
 # For the first round which will focus on Java Coding, DSA, Problem Solving, Logical reasoning:
 * [x] Revise how TLS works.
 * [ ] DSA:
     * [x] Word Search
-    * [x] LRU Cache.
-    * [x] LFU Cache.
-    * [x] Course schedule 1 and 2.
-    * [x] Given a list of words, find longest common substring among words
-* [x] Java garbage collection, and threading
-* [x] Singleton design pattern and various ways to implement it.
-* [x] Adapter design pattern.
+    * [ ] LRU Cache.
+    * [ ] LFU Cache.
+    * [ ] Course schedule 1 and 2.
+    * [ ] Given a list of words, find longest common substring among words
+* [ ] Java:
+  * [ ] garbage collection
+  * [ ] multithreading
+  * [ ] Comparable vs Comparator
+  * [ ] Collections framework
+  * [ ] Java 8 features - streams, lambda expressions, functional interfaces, method references etc.
+  * [ ] Exception handling
+  * [ ] Java memory model - stack, heap, permgen/metaspace etc.
+  * [ ] String pool and immutability of strings
+  * [ ] Differences between JDK, JRE and JVM
+  * [ ] Differences between abstract class and interface
+  * [ ] Differences between HashMap, Hashtable and ConcurrentHashMap
+  * [ ] Differences between checked and unchecked exceptions
+  * [ ] Differences between final, finally and finalize
+  * [ ] Differences between static and non-static methods
+  * [ ] Differences between == operator and equals() method
+  * [ ] Differences between String, StringBuilder and StringBuffer
+  * [ ] Java annotations - what are they, types of annotations, custom annotations etc.
+  * [ ] Java Reflection API - what is reflection, use cases, pros and cons etc.
+  * [ ] Java serialization and deserialization - what is it, how to implement it, transient keyword etc.
+  * [ ] Java concurrency utilities - ExecutorService, CountDownLatch, CyclicBarrier, Semaphore etc.
+  * [ ] Java design patterns - Singleton, Factory, Observer, Decorator etc.
+* [ ] Singleton design pattern and various ways to implement it.
+* [ ] Adapter design pattern.
 * [x] Familiarise yourself with the java syntax.
 * [ ] Several questions on multi-threading and the Singleton Design Pattern, including: 
-    * [x] How to implement the Singleton Design Pattern.
-    * [x] Locks and synchronization concepts.
+    * [ ] How to implement the Singleton Design Pattern.
+    * [ ] Locks and synchronization concepts.
 * [ ] See if you can practice/revise SQL queries like joins, subqueries, aggregations, window functions, etc.
     * [ ] Find the top 3 maximum salaries of each department.
     * [ ] Find employees who have the second highest salary.
@@ -35,6 +94,7 @@
     * [ ] Benefits of DI in Spring Framework.
     * [ ] if a prototype bean is autowired inside inside singleton bean, would it act like prototype?
     * [ ] All annotations you must know if worked with Rest API using Spring Boot
+    * [ ] Spring security as well
 * [ ] Go through CS Fundamental QAs repositories of your GitHub.
 * [ ] Also touch the microservices concepts.
 * [ ] How would you design a REST API for a given scenario?
